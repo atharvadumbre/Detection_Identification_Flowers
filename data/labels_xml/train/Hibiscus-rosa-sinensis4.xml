@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Hibiscus-rosa-sinensis4.jfif</filename>
+	<path>/my-project-name/Hibiscus-rosa-sinensis4.jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1341</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Hibiscus-rosa-sinesis</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>31</ymin>
+			<xmax>758</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hibiscus-rosa-sinesis</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>557</ymin>
+			<xmax>1439</xmax>
+			<ymax>1334</ymax>
+		</bndbox>
+	</object>
+</annotation>
